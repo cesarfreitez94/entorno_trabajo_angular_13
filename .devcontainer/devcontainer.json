@@ -1,0 +1,10 @@
+{
+    "name": "Entorno de trabajo Angular",
+    "dockerComposeFile": "./docker-compose.yaml",
+    "service": "app",
+    "shutdownAction": "stopCompose",
+    "workspaceFolder": "/app",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    }
+}
