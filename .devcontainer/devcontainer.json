@@ -3,7 +3,7 @@
     "dockerComposeFile": "./docker-compose.yaml",
     "service": "app",
     "shutdownAction": "stopCompose",
-    "workspaceFolder": "/app",
+    "workspaceFolder": "/app/angular13_base",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     }
