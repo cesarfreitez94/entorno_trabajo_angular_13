@@ -3,7 +3,7 @@
     "dockerComposeFile": "./docker-compose.yaml",
     "service": "app",
     "shutdownAction": "stopCompose",
-    "workspaceFolder": "/app",
+    "workspaceFolder": "/app/serverSide",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     }
